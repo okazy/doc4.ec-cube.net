@@ -138,6 +138,9 @@ docs:
       - title: プラグインで推奨の命名規則
         url: /plugin_naming_conventions
         output: web, pdf
+      - title: Web API プラグイン RC版 開発ドキュメント
+        url: https://doc.ec-cube.net/eccube-api4/
+        output: web, pdf
 
   - title: 設定変更
     output: web, pdf
@@ -175,13 +178,6 @@ docs:
     - title: プルリクエストの作り方
       url: /contribution-guide/pull-request
       output: web, pdf
-
-  - title: Web API仕様（ベータ）
-    output: web, pdf
-    children:
-      - title: Web API β版 スタートアップガイド
-        url: /api_quickstart_guide
-        output: web, pdf
 
   - title: ドキュメントがみつからないときは
     output: web, pdf

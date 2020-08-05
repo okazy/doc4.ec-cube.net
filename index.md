@@ -82,6 +82,7 @@ EC-CUBEのインストール方法、開発ガイドラインや要素技術の�
 + [プラグインサンプル](plugin_sample)
 + [オーナーズストア経由のインストールをテストする](plugin_mock_package_api)
 + [プラグインで推奨の命名規則](plugin_naming_conventions)
++ [Web API プラグイン RC版 開発ドキュメント](https://doc.ec-cube.net/eccube-api4/){:target="_blank"}
 
 ## 多言語化
 
@@ -92,10 +93,6 @@ EC-CUBEのインストール方法、開発ガイドラインや要素技術の�
 ## 開発ツール
 
 + [MailCatcher](/development-tools/mail-catcher)
-
-## Web API仕様（ベータ）
-
-+ [Web API β版 スタートアップガイド](api_quickstart_guide)
 
 ## 開発に参加する
 
